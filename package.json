@@ -1,0 +1,15 @@
+{
+  "name": "02-base-node",
+  "version": "0.0.1",
+  "description": "tabla de multiplicar",
+  "main": "mult.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elian vega",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
